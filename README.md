@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# BEER APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## [Live Site Link](https://beer-app-a5e681.netlify.app/)
+
+Click the link to view my live site: [https://beer-app-a5e681.netlify.app/](https://beer-app-a5e681.netlify.app/)
 
 In the project directory, you can run:
 
